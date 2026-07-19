@@ -1,0 +1,351 @@
+price,area,city,bedrooms,bathrooms,location,property_type,built_in_year,parking_spaces,servant_quarters,store_rooms,kitchens,drawing_rooms,source_url
+PKR 15.09 Crore,4 Kanal,Islamabad,15,14,B-17,House,1995,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 24.48 Crore,4 Kanal,Islamabad,17,19,G-11,Flat,2011,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 5.81 Crore,20 Marla,Islamabad,3,4,DHA Defence,Flat,2017,1,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 678.11 Crore,1040 Sq. Yd.,Islamabad,209,211,F-10,Penthouse,2003,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 2.22 Crore,7 Marla,Islamabad,0,1,CDA Sector,Upper Portion,2013,1,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 6.97 Crore,26 Marla,Islamabad,4,5,Koral Town,House,2007,2,1,0,2,2,synthetic://islamabad-local-dataset
+PKR 15.30 Crore,32 Marla,Islamabad,6,6,G-13,Penthouse,2018,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 5.12 Crore,20 Marla,Islamabad,3,4,G-11,House,2020,1,0,0,2,2,synthetic://islamabad-local-dataset
+PKR 4.08 Crore,19 Marla,Islamabad,5,7,G-13,Flat,2018,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 3.12 Crore,6 Marla,Islamabad,3,3,G-13,Penthouse,2010,2,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 25.62 Crore,32 Marla,Islamabad,7,6,F-11,Penthouse,1997,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 7.21 Crore,2 Kanal,Islamabad,8,8,Soan Garden,Upper Portion,2019,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 1587.20 Crore,6022 Sq. Ft.,Islamabad,1204,1204,I-8,Flat,2011,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 9.37 Crore,23 Marla,Islamabad,5,4,Soan Garden,Penthouse,2024,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 12.81 Crore,39 Marla,Islamabad,10,9,G-10,Flat,1996,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 18.08 Crore,3 Kanal,Islamabad,12,14,I-8,Flat,1999,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 5.27 Crore,26 Marla,Islamabad,5,7,PWD Housing Scheme,Flat,2017,2,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 9.50 Crore,1 Kanal,Islamabad,3,2,I-9,Penthouse,2002,1,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 16.18 Crore,34 Marla,Islamabad,6,6,Bahria Town,Penthouse,2002,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 1.70 Crore,9 Marla,Islamabad,1,3,G-11,Lower Portion,2020,1,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 7.99 Crore,24 Marla,Islamabad,7,6,B-17,Farm House,1998,3,1,1,3,3,synthetic://islamabad-local-dataset
+PKR 100.55 Crore,300 Sq. Yd.,Islamabad,59,58,G-11,House,2009,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 6.73 Crore,27 Marla,Islamabad,4,6,G-11,Lower Portion,2023,2,0,0,2,2,synthetic://islamabad-local-dataset
+PKR 22.75 Crore,3 Kanal,Islamabad,11,11,PWD Housing Scheme,Penthouse,2016,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 5.60 Crore,33 Marla,Islamabad,7,7,PWD Housing Scheme,Upper Portion,1996,3,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 5.67 Crore,10 Marla,Islamabad,4,4,Bahria Town,Farm House,2022,3,1,1,2,2,synthetic://islamabad-local-dataset
+PKR 57.26 Crore,6 Kanal,Islamabad,23,25,F-10,Upper Portion,2001,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 10.00 Crore,39 Marla,Islamabad,10,9,CDA Sector,House,1995,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 7.48 Crore,37 Marla,Islamabad,9,8,G-11,Upper Portion,2004,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 2.79 Crore,9 Marla,Islamabad,3,3,CDA Sector,Flat,2003,2,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 622.17 Crore,1135 Sq. Yd.,Islamabad,227,226,G-11,Farm House,2015,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 31.38 Crore,7 Kanal,Islamabad,29,28,B-17,Upper Portion,2000,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 4.21 Crore,30 Marla,Islamabad,5,6,Koral Town,Upper Portion,2013,3,0,0,2,3,synthetic://islamabad-local-dataset
+PKR 4.22 Crore,9 Marla,Islamabad,2,4,F-10,Flat,2016,2,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 263.83 Crore,944 Sq. Yd.,Islamabad,187,188,G-11,Flat,2020,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 2.35 Crore,9 Marla,Islamabad,2,1,PWD Housing Scheme,Flat,2003,2,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 202.56 Crore,566 Sq. Yd.,Islamabad,113,113,E-11,Upper Portion,2004,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 20.22 Crore,37 Marla,Islamabad,7,6,F-10,Farm House,2011,3,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 8.71 Crore,23 Marla,Islamabad,5,4,Bahria Town,Penthouse,2008,3,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 7.83 Crore,37 Marla,Islamabad,9,9,PWD Housing Scheme,Lower Portion,1995,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 16.34 Crore,22 Marla,Islamabad,5,7,F-10,Farm House,2022,3,0,0,2,2,synthetic://islamabad-local-dataset
+PKR 4319.69 Crore,5942 Sq. Ft.,Islamabad,1189,1191,F-11,Farm House,2018,4,1,1,3,3,synthetic://islamabad-local-dataset
+PKR 3.92 Crore,16 Marla,Islamabad,4,4,B-17,Upper Portion,2009,3,0,1,2,2,synthetic://islamabad-local-dataset
+PKR 4.83 Crore,15 Marla,Islamabad,2,1,Bahria Town,Flat,2016,1,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 94.28 Crore,498 Sq. Yd.,Islamabad,101,103,Bahria Town,Lower Portion,2008,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 4.95 Crore,14 Marla,Islamabad,5,7,Soan Garden,House,2019,2,1,0,2,2,synthetic://islamabad-local-dataset
+PKR 70.08 Crore,8 Kanal,Islamabad,33,35,B-17,Penthouse,2012,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 3.86 Crore,18 Marla,Islamabad,5,6,PWD Housing Scheme,Lower Portion,2009,4,0,1,2,2,synthetic://islamabad-local-dataset
+PKR 8.36 Crore,24 Marla,Islamabad,5,4,Bahria Town,Farm House,2004,2,1,0,2,2,synthetic://islamabad-local-dataset
+PKR 3.08 Crore,6 Marla,Islamabad,1,3,F-11,Upper Portion,2012,1,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 13.11 Crore,25 Marla,Islamabad,5,7,DHA Defence,Penthouse,2007,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 207.57 Crore,551 Sq. Yd.,Islamabad,111,112,PWD Housing Scheme,Farm House,2012,4,1,1,3,3,synthetic://islamabad-local-dataset
+PKR 8.85 Crore,37 Marla,Islamabad,6,8,G-13,Lower Portion,2024,4,0,0,2,2,synthetic://islamabad-local-dataset
+PKR 6.17 Crore,27 Marla,Islamabad,5,7,Koral Town,Lower Portion,2000,3,0,0,2,2,synthetic://islamabad-local-dataset
+PKR 245.06 Crore,1063 Sq. Yd.,Islamabad,211,210,Koral Town,Lower Portion,2003,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 6.48 Crore,18 Marla,Islamabad,3,2,B-17,House,2019,2,1,1,2,1,synthetic://islamabad-local-dataset
+PKR 305.94 Crore,443 Sq. Yd.,Islamabad,90,89,E-11,Farm House,2003,4,1,1,3,3,synthetic://islamabad-local-dataset
+PKR 2102.72 Crore,4149 Sq. Ft.,Islamabad,832,832,I-9,Farm House,2024,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 59.45 Crore,184 Sq. Yd.,Islamabad,37,39,Koral Town,Farm House,2014,4,1,0,3,3,synthetic://islamabad-local-dataset
+PKR 2000.99 Crore,6106 Sq. Ft.,Islamabad,1223,1225,E-11,House,2008,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 13.15 Crore,30 Marla,Islamabad,8,9,Soan Garden,Penthouse,2019,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 43.07 Crore,7 Kanal,Islamabad,28,30,G-10,Lower Portion,2002,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 43.74 Crore,5 Kanal,Islamabad,21,21,F-10,Upper Portion,2023,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 41.06 Crore,8 Kanal,Islamabad,34,33,PWD Housing Scheme,Lower Portion,2015,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 9.43 Crore,30 Marla,Islamabad,8,9,F-10,Lower Portion,2012,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 7.35 Crore,37 Marla,Islamabad,10,10,PWD Housing Scheme,Flat,2005,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 2.73 Crore,9 Marla,Islamabad,4,5,I-9,Penthouse,2014,2,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 1.86 Crore,6 Marla,Islamabad,2,2,I-8,Flat,2003,2,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 8.70 Crore,33 Marla,Islamabad,7,7,Bahria Town,House,2013,4,1,0,3,2,synthetic://islamabad-local-dataset
+PKR 8.27 Crore,1 Kanal,Islamabad,3,4,E-11,House,2013,1,1,0,2,1,synthetic://islamabad-local-dataset
+PKR 6.71 Crore,31 Marla,Islamabad,8,9,I-9,Flat,2019,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 556.22 Crore,1712 Sq. Ft.,Islamabad,345,345,I-9,House,2014,4,1,1,3,3,synthetic://islamabad-local-dataset
+PKR 8.74 Crore,33 Marla,Islamabad,6,6,G-13,House,2008,3,1,0,2,2,synthetic://islamabad-local-dataset
+PKR 27.93 Crore,4 Kanal,Islamabad,16,16,G-10,Farm House,2013,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 372.77 Crore,691 Sq. Yd.,Islamabad,138,140,G-10,Penthouse,2018,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 1.76 Crore,5 Marla,Islamabad,3,4,I-8,Penthouse,2010,2,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 63.54 Crore,142 Sq. Yd.,Islamabad,31,32,G-11,Farm House,2021,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 9.77 Crore,34 Marla,Islamabad,9,11,G-10,Flat,2013,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 6.23 Crore,34 Marla,Islamabad,6,8,Koral Town,Flat,2005,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 8.53 Crore,28 Marla,Islamabad,8,7,F-10,Upper Portion,2005,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 16.15 Crore,31 Marla,Islamabad,8,8,F-10,Penthouse,2019,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 11.42 Crore,18 Marla,Islamabad,5,6,CDA Sector,Farm House,2010,3,0,1,2,3,synthetic://islamabad-local-dataset
+PKR 359.65 Crore,1120 Sq. Yd.,Islamabad,226,227,E-11,House,2015,4,1,0,3,3,synthetic://islamabad-local-dataset
+PKR 10.89 Crore,35 Marla,Islamabad,8,8,I-8,Flat,2007,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 279.08 Crore,647 Sq. Yd.,Islamabad,131,132,F-11,Upper Portion,2024,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 3.92 Crore,25 Marla,Islamabad,5,7,Koral Town,Flat,2009,3,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 5.83 Crore,29 Marla,Islamabad,4,6,PWD Housing Scheme,Flat,2013,3,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 1.62 Crore,5 Marla,Islamabad,0,1,B-17,Farm House,1999,1,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 40.79 Crore,7 Kanal,Islamabad,30,30,I-8,Lower Portion,1995,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 888.18 Crore,1192 Sq. Yd.,Islamabad,238,239,F-11,Farm House,1997,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 982.07 Crore,2763 Sq. Ft.,Islamabad,554,556,G-11,Farm House,2016,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 1.77 Crore,6 Marla,Islamabad,1,2,G-10,House,1996,1,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 4.66 Crore,27 Marla,Islamabad,6,6,B-17,Flat,2000,3,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 96.68 Lac,3 Marla,Islamabad,3,5,B-17,Upper Portion,2009,3,0,0,2,2,synthetic://islamabad-local-dataset
+PKR 9.36 Crore,30 Marla,Islamabad,7,9,E-11,Upper Portion,2013,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 4.24 Crore,21 Marla,Islamabad,7,8,G-11,Lower Portion,2013,3,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 8.67 Crore,1 Kanal,Islamabad,6,8,Koral Town,Farm House,2019,4,0,0,2,2,synthetic://islamabad-local-dataset
+PKR 20.02 Crore,3 Kanal,Islamabad,13,12,G-11,Farm House,2001,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 3.24 Crore,15 Marla,Islamabad,2,3,G-10,Upper Portion,2018,2,0,0,2,1,synthetic://islamabad-local-dataset
+PKR 6.36 Crore,24 Marla,Islamabad,7,9,Koral Town,Lower Portion,2020,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 3371.04 Crore,7491 Sq. Ft.,Islamabad,1499,1498,PWD Housing Scheme,Farm House,2007,4,1,1,3,3,synthetic://islamabad-local-dataset
+PKR 4.91 Crore,26 Marla,Islamabad,4,4,B-17,Upper Portion,2013,2,0,0,2,2,synthetic://islamabad-local-dataset
+PKR 5.75 Crore,32 Marla,Islamabad,9,10,I-9,Flat,2015,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 7.36 Crore,18 Marla,Islamabad,6,6,DHA Defence,Upper Portion,2010,3,0,1,2,3,synthetic://islamabad-local-dataset
+PKR 14.07 Crore,3 Kanal,Islamabad,14,13,I-8,Lower Portion,2013,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 4.91 Crore,18 Marla,Islamabad,6,5,PWD Housing Scheme,Upper Portion,2001,4,0,1,2,3,synthetic://islamabad-local-dataset
+PKR 4.81 Crore,10 Marla,Islamabad,4,6,DHA Defence,Lower Portion,2003,2,0,1,2,2,synthetic://islamabad-local-dataset
+PKR 3031.32 Crore,7346 Sq. Ft.,Islamabad,1470,1469,DHA Defence,Upper Portion,2002,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 94.01 Lac,3 Marla,Islamabad,0,1,G-11,Upper Portion,2019,1,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 1.32 Crore,3 Marla,Islamabad,1,1,Bahria Town,Farm House,2022,1,0,0,1,0,synthetic://islamabad-local-dataset
+PKR 3.20 Crore,7 Marla,Islamabad,2,3,G-13,Farm House,2008,2,0,0,2,1,synthetic://islamabad-local-dataset
+PKR 363.70 Crore,1167 Sq. Yd.,Islamabad,233,232,I-9,House,2018,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 234.88 Crore,759 Sq. Yd.,Islamabad,153,152,CDA Sector,Lower Portion,1997,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 24.60 Crore,35 Marla,Islamabad,8,7,F-11,Penthouse,2011,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 400.40 Crore,980 Sq. Yd.,Islamabad,196,196,CDA Sector,Penthouse,2018,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 5.43 Crore,19 Marla,Islamabad,4,4,PWD Housing Scheme,House,2005,3,0,1,2,1,synthetic://islamabad-local-dataset
+PKR 84.85 Crore,222 Sq. Yd.,Islamabad,45,46,PWD Housing Scheme,Farm House,2006,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 2031.48 Crore,5818 Sq. Ft.,Islamabad,1163,1162,CDA Sector,Farm House,1996,4,1,0,3,3,synthetic://islamabad-local-dataset
+PKR 7.82 Crore,20 Marla,Islamabad,5,7,Koral Town,Penthouse,2006,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 10.75 Crore,20 Marla,Islamabad,3,4,I-9,Farm House,2015,2,1,1,2,1,synthetic://islamabad-local-dataset
+PKR 1.15 Crore,4 Marla,Islamabad,0,1,I-9,Farm House,2007,0,0,0,1,0,synthetic://islamabad-local-dataset
+PKR 137.33 Crore,273 Sq. Yd.,Islamabad,57,57,G-10,Farm House,2005,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 8.98 Crore,16 Marla,Islamabad,5,4,E-11,Penthouse,2009,3,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 3.55 Crore,1 Kanal,Islamabad,3,2,I-9,Lower Portion,2011,1,0,1,2,1,synthetic://islamabad-local-dataset
+PKR 9.41 Crore,34 Marla,Islamabad,8,8,G-10,Upper Portion,2005,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 1.15 Crore,5 Marla,Islamabad,1,3,B-17,Upper Portion,1997,2,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 23.67 Crore,5 Kanal,Islamabad,19,18,I-9,Lower Portion,2017,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 1.77 Crore,9 Marla,Islamabad,1,3,PWD Housing Scheme,Upper Portion,1997,1,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 4.15 Crore,10 Marla,Islamabad,3,3,F-10,Flat,1997,3,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 2.11 Crore,9 Marla,Islamabad,1,1,Koral Town,Farm House,2021,0,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 12.63 Crore,39 Marla,Islamabad,9,11,Soan Garden,Farm House,2010,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 5.35 Crore,33 Marla,Islamabad,7,8,B-17,Upper Portion,1999,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 6.27 Crore,21 Marla,Islamabad,3,2,E-11,Lower Portion,1996,2,0,1,2,1,synthetic://islamabad-local-dataset
+PKR 17.27 Crore,39 Marla,Islamabad,9,10,Soan Garden,Farm House,2023,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 2.44 Crore,14 Marla,Islamabad,1,3,Koral Town,Upper Portion,2017,2,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 4.99 Crore,24 Marla,Islamabad,6,5,CDA Sector,Upper Portion,2007,4,0,0,2,2,synthetic://islamabad-local-dataset
+PKR 2.79 Crore,12 Marla,Islamabad,2,2,B-17,Lower Portion,2004,2,0,1,2,1,synthetic://islamabad-local-dataset
+PKR 1687.99 Crore,3436 Sq. Ft.,Islamabad,688,689,G-13,Penthouse,2017,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 12.34 Crore,30 Marla,Islamabad,7,6,PWD Housing Scheme,Farm House,2024,4,1,1,3,3,synthetic://islamabad-local-dataset
+PKR 2.35 Crore,9 Marla,Islamabad,2,1,G-11,Flat,1999,2,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 3.15 Crore,13 Marla,Islamabad,4,3,I-9,Lower Portion,1999,2,0,0,2,2,synthetic://islamabad-local-dataset
+PKR 16.30 Crore,37 Marla,Islamabad,7,9,G-10,Farm House,2020,4,1,0,3,3,synthetic://islamabad-local-dataset
+PKR 6.40 Crore,36 Marla,Islamabad,7,7,Soan Garden,Upper Portion,2019,4,0,0,3,2,synthetic://islamabad-local-dataset
+PKR 2.63 Crore,9 Marla,Islamabad,3,2,B-17,Lower Portion,2022,2,0,0,2,1,synthetic://islamabad-local-dataset
+PKR 620.07 Crore,2718 Sq. Ft.,Islamabad,545,546,G-13,Lower Portion,1997,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 13.65 Crore,23 Marla,Islamabad,7,8,F-11,House,2006,4,1,1,3,3,synthetic://islamabad-local-dataset
+PKR 1.66 Crore,3 Marla,Islamabad,3,2,G-13,Farm House,2010,2,0,0,2,2,synthetic://islamabad-local-dataset
+PKR 9.26 Crore,21 Marla,Islamabad,4,3,PWD Housing Scheme,Penthouse,2011,2,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 287.99 Crore,1123 Sq. Yd.,Islamabad,225,224,E-11,House,1998,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 2.93 Crore,8 Marla,Islamabad,2,3,F-10,Flat,2013,1,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 9.40 Crore,33 Marla,Islamabad,5,7,I-8,Penthouse,1995,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 2.78 Crore,9 Marla,Islamabad,3,4,Soan Garden,House,2006,1,0,1,2,1,synthetic://islamabad-local-dataset
+PKR 1132.75 Crore,4820 Sq. Ft.,Islamabad,965,965,Koral Town,Farm House,2009,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 2063.65 Crore,5122 Sq. Ft.,Islamabad,1024,1026,G-11,House,2005,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 8.95 Crore,26 Marla,Islamabad,5,7,Koral Town,Farm House,2005,3,0,1,2,3,synthetic://islamabad-local-dataset
+PKR 201.86 Crore,646 Sq. Yd.,Islamabad,131,133,E-11,Upper Portion,2024,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 12.89 Crore,21 Marla,Islamabad,4,6,F-10,House,1997,2,0,1,2,2,synthetic://islamabad-local-dataset
+PKR 6.25 Crore,1 Kanal,Islamabad,3,5,I-9,Lower Portion,2003,2,0,0,2,2,synthetic://islamabad-local-dataset
+PKR 63.02 Crore,171 Sq. Yd.,Islamabad,33,33,G-13,Penthouse,2016,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 9.03 Crore,31 Marla,Islamabad,8,9,I-9,House,2014,4,1,1,3,3,synthetic://islamabad-local-dataset
+PKR 4.16 Crore,14 Marla,Islamabad,3,5,G-10,Flat,1998,3,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 586.28 Crore,3239 Sq. Ft.,Islamabad,649,651,PWD Housing Scheme,Lower Portion,2001,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 134.88 Crore,754 Sq. Yd.,Islamabad,152,151,PWD Housing Scheme,Lower Portion,1997,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 9.67 Crore,26 Marla,Islamabad,6,5,PWD Housing Scheme,Farm House,2015,4,0,1,2,2,synthetic://islamabad-local-dataset
+PKR 88.50 Crore,365 Sq. Yd.,Islamabad,74,73,I-9,Upper Portion,2009,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 5.77 Crore,11 Marla,Islamabad,5,4,F-11,Lower Portion,2021,3,0,0,2,2,synthetic://islamabad-local-dataset
+PKR 17.14 Crore,3 Kanal,Islamabad,12,11,Soan Garden,Penthouse,2015,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 31.66 Crore,6 Kanal,Islamabad,26,27,G-13,Upper Portion,2024,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 22.57 Crore,2 Kanal,Islamabad,9,9,G-13,Farm House,2004,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 88.77 Crore,158 Sq. Yd.,Islamabad,30,31,F-10,Penthouse,1996,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 137.54 Crore,693 Sq. Yd.,Islamabad,140,141,B-17,House,2010,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 11.96 Crore,32 Marla,Islamabad,6,6,DHA Defence,Flat,2009,3,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 4.44 Crore,26 Marla,Islamabad,6,5,Koral Town,Upper Portion,2007,3,0,1,2,2,synthetic://islamabad-local-dataset
+PKR 3337.58 Crore,7979 Sq. Ft.,Islamabad,1597,1597,Bahria Town,House,2004,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 1105.02 Crore,4724 Sq. Ft.,Islamabad,945,946,G-11,Flat,2010,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 6.32 Crore,1 Kanal,Islamabad,3,5,E-11,Flat,2001,2,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 368.69 Crore,982 Sq. Yd.,Islamabad,195,196,G-10,Penthouse,1995,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 14.33 Crore,26 Marla,Islamabad,6,5,F-11,House,2013,3,0,1,2,3,synthetic://islamabad-local-dataset
+PKR 1208.45 Crore,4126 Sq. Ft.,Islamabad,825,826,I-9,House,1999,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 9.63 Crore,24 Marla,Islamabad,7,9,DHA Defence,House,1996,3,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 606.40 Crore,788 Sq. Yd.,Islamabad,158,160,F-11,Penthouse,2018,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 14.44 Crore,29 Marla,Islamabad,7,6,F-10,Upper Portion,2016,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 42.55 Crore,8 Kanal,Islamabad,31,33,I-9,Penthouse,2002,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 8.68 Crore,23 Marla,Islamabad,5,7,PWD Housing Scheme,House,2001,3,0,0,2,3,synthetic://islamabad-local-dataset
+PKR 29.07 Crore,4 Kanal,Islamabad,17,19,PWD Housing Scheme,Farm House,1996,4,1,1,3,3,synthetic://islamabad-local-dataset
+PKR 561.03 Crore,641 Sq. Yd.,Islamabad,129,129,F-10,Farm House,2019,4,1,1,3,3,synthetic://islamabad-local-dataset
+PKR 6.33 Crore,34 Marla,Islamabad,7,8,Soan Garden,Upper Portion,2017,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 11.87 Crore,28 Marla,Islamabad,7,7,I-9,Farm House,2012,4,1,0,3,3,synthetic://islamabad-local-dataset
+PKR 18.74 Crore,37 Marla,Islamabad,7,8,G-10,Farm House,2010,3,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 1.68 Crore,9 Marla,Islamabad,2,4,I-8,Flat,2015,1,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 35.37 Crore,8 Kanal,Islamabad,32,32,I-8,Flat,2008,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 21.31 Crore,37 Marla,Islamabad,9,8,DHA Defence,House,2015,4,1,0,3,3,synthetic://islamabad-local-dataset
+PKR 4.01 Crore,21 Marla,Islamabad,6,5,Koral Town,Lower Portion,2020,3,0,0,2,3,synthetic://islamabad-local-dataset
+PKR 6.84 Crore,11 Marla,Islamabad,4,6,E-11,Farm House,2012,2,0,1,2,2,synthetic://islamabad-local-dataset
+PKR 27.84 Crore,5 Kanal,Islamabad,21,21,PWD Housing Scheme,Flat,1995,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 4.11 Crore,28 Marla,Islamabad,7,7,Koral Town,Lower Portion,2011,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 36.34 Crore,6 Kanal,Islamabad,24,23,F-11,Flat,2009,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 6.65 Crore,28 Marla,Islamabad,7,8,B-17,House,2009,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 7.66 Crore,26 Marla,Islamabad,5,7,G-13,Lower Portion,1999,4,0,0,2,2,synthetic://islamabad-local-dataset
+PKR 284.57 Crore,1176 Sq. Yd.,Islamabad,235,236,B-17,Penthouse,2022,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 5.47 Crore,12 Marla,Islamabad,2,4,I-8,Penthouse,2001,1,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 455.64 Crore,1028 Sq. Yd.,Islamabad,205,207,Bahria Town,Penthouse,2009,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 3.28 Crore,19 Marla,Islamabad,6,6,Soan Garden,Upper Portion,2018,4,0,1,2,2,synthetic://islamabad-local-dataset
+PKR 12.46 Crore,21 Marla,Islamabad,4,4,DHA Defence,House,2024,3,0,0,2,2,synthetic://islamabad-local-dataset
+PKR 1573.46 Crore,3992 Sq. Ft.,Islamabad,798,798,F-11,Lower Portion,2022,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 2274.30 Crore,7738 Sq. Ft.,Islamabad,1546,1545,I-8,Flat,2018,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 441.99 Crore,606 Sq. Yd.,Islamabad,122,122,F-11,Penthouse,2007,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 5.00 Crore,1 Kanal,Islamabad,3,2,Bahria Town,House,2020,1,1,0,2,2,synthetic://islamabad-local-dataset
+PKR 11.52 Crore,37 Marla,Islamabad,7,6,PWD Housing Scheme,House,2007,3,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 44.20 Crore,6 Kanal,Islamabad,23,23,I-9,Penthouse,2019,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 2109.02 Crore,6922 Sq. Ft.,Islamabad,1387,1389,G-10,House,2012,4,1,1,3,3,synthetic://islamabad-local-dataset
+PKR 2.86 Crore,12 Marla,Islamabad,2,2,I-8,Upper Portion,2017,2,0,1,2,2,synthetic://islamabad-local-dataset
+PKR 1.26 Crore,6 Marla,Islamabad,2,4,PWD Housing Scheme,Flat,2020,2,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 2.13 Crore,8 Marla,Islamabad,4,5,G-11,Upper Portion,2001,2,0,0,2,2,synthetic://islamabad-local-dataset
+PKR 2.95 Crore,7 Marla,Islamabad,1,1,B-17,Penthouse,2014,1,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 6.66 Crore,15 Marla,Islamabad,5,4,F-10,Upper Portion,2024,3,0,0,2,3,synthetic://islamabad-local-dataset
+PKR 1088.62 Crore,5422 Sq. Ft.,Islamabad,1084,1085,PWD Housing Scheme,Flat,2007,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 239.14 Crore,1054 Sq. Yd.,Islamabad,210,212,G-10,Upper Portion,2011,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 5.33 Crore,12 Marla,Islamabad,1,3,DHA Defence,Penthouse,2022,1,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 5.58 Crore,24 Marla,Islamabad,4,6,I-9,Flat,2010,3,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 5.31 Crore,11 Marla,Islamabad,4,6,G-13,Farm House,2020,2,0,0,2,2,synthetic://islamabad-local-dataset
+PKR 3.76 Crore,1 Kanal,Islamabad,4,4,Koral Town,House,2021,2,1,1,2,2,synthetic://islamabad-local-dataset
+PKR 51.05 Crore,8 Kanal,Islamabad,33,32,B-17,Farm House,2024,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 331.08 Crore,981 Sq. Yd.,Islamabad,198,198,G-10,House,2011,4,1,1,3,3,synthetic://islamabad-local-dataset
+PKR 45.19 Crore,261 Sq. Yd.,Islamabad,52,54,Koral Town,Upper Portion,2003,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 1770.75 Crore,6223 Sq. Ft.,Islamabad,1246,1245,Koral Town,House,2015,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 8.80 Crore,24 Marla,Islamabad,6,5,Bahria Town,Lower Portion,2022,4,0,0,2,2,synthetic://islamabad-local-dataset
+PKR 2.97 Crore,7 Marla,Islamabad,3,4,PWD Housing Scheme,Penthouse,2010,3,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 40.28 Crore,132 Sq. Yd.,Islamabad,29,29,DHA Defence,Flat,2024,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 13.28 Crore,39 Marla,Islamabad,10,12,Bahria Town,Upper Portion,2000,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 9.61 Crore,25 Marla,Islamabad,4,6,Soan Garden,Farm House,2018,2,1,0,2,2,synthetic://islamabad-local-dataset
+PKR 35.07 Crore,8 Kanal,Islamabad,32,33,Soan Garden,Upper Portion,1995,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 37.29 Crore,4 Kanal,Islamabad,17,16,F-11,House,2019,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 10.73 Crore,22 Marla,Islamabad,5,6,F-10,House,1997,2,1,1,2,2,synthetic://islamabad-local-dataset
+PKR 3.52 Crore,8 Marla,Islamabad,2,3,Bahria Town,House,1997,2,0,1,2,1,synthetic://islamabad-local-dataset
+PKR 898.79 Crore,2888 Sq. Ft.,Islamabad,578,578,PWD Housing Scheme,Penthouse,2023,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 6.47 Crore,30 Marla,Islamabad,6,7,G-10,Lower Portion,1999,3,0,1,2,2,synthetic://islamabad-local-dataset
+PKR 31.77 Crore,8 Kanal,Islamabad,31,32,B-17,Lower Portion,2014,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 1.90 Crore,11 Marla,Islamabad,2,2,Koral Town,Upper Portion,2009,1,0,1,2,1,synthetic://islamabad-local-dataset
+PKR 16.76 Crore,39 Marla,Islamabad,9,10,PWD Housing Scheme,Farm House,2015,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 9.79 Crore,1 Kanal,Islamabad,6,8,I-9,Penthouse,2000,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 380.74 Crore,937 Sq. Yd.,Islamabad,189,189,Koral Town,Farm House,1997,4,1,0,3,3,synthetic://islamabad-local-dataset
+PKR 10.18 Crore,28 Marla,Islamabad,6,8,Bahria Town,Lower Portion,2014,4,0,0,2,2,synthetic://islamabad-local-dataset
+PKR 810.89 Crore,1795 Sq. Ft.,Islamabad,361,362,I-8,Penthouse,2015,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 9.94 Crore,24 Marla,Islamabad,7,9,B-17,Farm House,2015,3,1,1,3,3,synthetic://islamabad-local-dataset
+PKR 7.61 Crore,28 Marla,Islamabad,6,6,PWD Housing Scheme,Penthouse,2002,3,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 187.27 Crore,390 Sq. Yd.,Islamabad,78,79,F-11,House,1998,4,1,1,3,3,synthetic://islamabad-local-dataset
+PKR 1.03 Crore,5 Marla,Islamabad,3,2,PWD Housing Scheme,Lower Portion,2005,1,0,0,2,1,synthetic://islamabad-local-dataset
+PKR 558.43 Crore,2898 Sq. Ft.,Islamabad,580,580,Soan Garden,Flat,2024,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 5.15 Crore,30 Marla,Islamabad,6,6,Soan Garden,Lower Portion,2015,3,0,1,2,2,synthetic://islamabad-local-dataset
+PKR 138.41 Crore,308 Sq. Yd.,Islamabad,63,63,G-10,Farm House,2020,4,1,1,3,3,synthetic://islamabad-local-dataset
+PKR 6.95 Crore,28 Marla,Islamabad,6,7,B-17,Upper Portion,2014,3,0,1,2,2,synthetic://islamabad-local-dataset
+PKR 9.72 Crore,2 Kanal,Islamabad,9,10,Soan Garden,Upper Portion,2024,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 50.01 Crore,7 Kanal,Islamabad,28,30,I-8,Lower Portion,2008,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 4.78 Crore,14 Marla,Islamabad,3,5,I-8,Flat,2010,2,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 400.48 Crore,1135 Sq. Yd.,Islamabad,228,230,E-11,Flat,2001,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 5.71 Crore,17 Marla,Islamabad,3,4,E-11,Flat,1997,1,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 575.36 Crore,1146 Sq. Yd.,Islamabad,228,227,I-9,Farm House,2019,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 12.96 Crore,30 Marla,Islamabad,5,5,Soan Garden,Farm House,2009,3,0,1,2,2,synthetic://islamabad-local-dataset
+PKR 246.11 Crore,529 Sq. Yd.,Islamabad,108,109,E-11,House,2019,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 4.30 Crore,25 Marla,Islamabad,6,6,Koral Town,Flat,2020,3,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 20.80 Crore,2 Kanal,Islamabad,7,9,G-10,Penthouse,2023,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 4.78 Crore,12 Marla,Islamabad,4,4,G-13,Farm House,2022,3,0,1,2,2,synthetic://islamabad-local-dataset
+PKR 3.16 Crore,8 Marla,Islamabad,2,3,F-11,Lower Portion,2009,2,0,0,2,1,synthetic://islamabad-local-dataset
+PKR 85.13 Crore,290 Sq. Yd.,Islamabad,59,61,I-9,House,2022,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 6.94 Crore,21 Marla,Islamabad,4,4,F-11,Flat,2010,3,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 9.80 Crore,32 Marla,Islamabad,5,5,B-17,House,1996,3,1,0,2,2,synthetic://islamabad-local-dataset
+PKR 8.02 Crore,20 Marla,Islamabad,3,4,G-13,Farm House,2004,2,0,0,2,1,synthetic://islamabad-local-dataset
+PKR 71.28 Crore,7 Kanal,Islamabad,29,28,G-10,Farm House,2017,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 5.77 Crore,10 Marla,Islamabad,4,6,DHA Defence,House,2017,3,0,1,2,1,synthetic://islamabad-local-dataset
+PKR 112.32 Crore,380 Sq. Yd.,Islamabad,76,76,Bahria Town,Upper Portion,2006,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 8.82 Crore,16 Marla,Islamabad,4,4,I-9,Farm House,2000,3,0,1,2,2,synthetic://islamabad-local-dataset
+PKR 41.67 Crore,6 Kanal,Islamabad,26,27,G-13,House,2013,4,1,0,3,3,synthetic://islamabad-local-dataset
+PKR 45.16 Crore,154 Sq. Yd.,Islamabad,33,34,PWD Housing Scheme,Penthouse,2004,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 8.90 Crore,18 Marla,Islamabad,4,3,F-11,Upper Portion,2015,2,0,0,2,1,synthetic://islamabad-local-dataset
+PKR 12.53 Crore,27 Marla,Islamabad,7,9,DHA Defence,Upper Portion,2024,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 5.96 Crore,1 Kanal,Islamabad,4,3,Soan Garden,House,1995,3,0,1,2,2,synthetic://islamabad-local-dataset
+PKR 6.92 Crore,2 Kanal,Islamabad,9,9,Soan Garden,Lower Portion,2008,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 10.34 Crore,40 Marla,Islamabad,9,8,Soan Garden,Flat,2012,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 11.43 Crore,30 Marla,Islamabad,5,4,G-11,House,2002,3,0,0,2,2,synthetic://islamabad-local-dataset
+PKR 9.56 Crore,25 Marla,Islamabad,6,7,PWD Housing Scheme,House,2000,3,1,0,2,2,synthetic://islamabad-local-dataset
+PKR 157.45 Crore,657 Sq. Yd.,Islamabad,132,133,Soan Garden,House,2005,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 6.40 Crore,19 Marla,Islamabad,5,4,E-11,Penthouse,2000,2,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 7.43 Crore,26 Marla,Islamabad,5,5,Koral Town,House,2002,2,0,1,2,2,synthetic://islamabad-local-dataset
+PKR 6.67 Crore,29 Marla,Islamabad,8,9,B-17,Lower Portion,2002,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 11.71 Crore,36 Marla,Islamabad,10,12,CDA Sector,House,2000,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 7.51 Crore,21 Marla,Islamabad,5,6,I-8,Lower Portion,1995,3,0,1,2,2,synthetic://islamabad-local-dataset
+PKR 1168.71 Crore,7129 Sq. Ft.,Islamabad,1427,1427,Soan Garden,Flat,2018,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 10.73 Crore,1 Kanal,Islamabad,6,5,F-10,Farm House,2021,4,0,0,2,2,synthetic://islamabad-local-dataset
+PKR 510.13 Crore,2066 Sq. Ft.,Islamabad,415,414,G-11,Lower Portion,2010,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 310.45 Crore,1595 Sq. Ft.,Islamabad,320,320,CDA Sector,Upper Portion,2009,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 4.60 Crore,23 Marla,Islamabad,7,9,B-17,Flat,2002,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 485.07 Crore,2015 Sq. Ft.,Islamabad,405,404,G-10,Flat,1997,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 10.16 Crore,16 Marla,Islamabad,4,6,F-11,House,2012,2,1,1,2,2,synthetic://islamabad-local-dataset
+PKR 5.77 Crore,23 Marla,Islamabad,4,4,PWD Housing Scheme,Penthouse,1996,3,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 220.80 Crore,1154 Sq. Ft.,Islamabad,233,235,G-10,Upper Portion,2021,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 3.47 Crore,17 Marla,Islamabad,2,4,Soan Garden,Flat,1998,1,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 717.54 Crore,1514 Sq. Ft.,Islamabad,301,300,I-9,Penthouse,2003,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 10.12 Crore,32 Marla,Islamabad,5,7,Bahria Town,Upper Portion,1998,4,0,1,2,2,synthetic://islamabad-local-dataset
+PKR 684.76 Crore,3152 Sq. Ft.,Islamabad,630,630,G-13,Upper Portion,2001,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 12.91 Crore,20 Marla,Islamabad,4,6,F-11,Penthouse,2010,2,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 8.67 Crore,27 Marla,Islamabad,7,8,B-17,Penthouse,2020,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 4.34 Crore,14 Marla,Islamabad,1,1,I-9,Penthouse,2005,0,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 10.26 Crore,40 Marla,Islamabad,10,10,Soan Garden,Lower Portion,2011,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 280.13 Crore,549 Sq. Yd.,Islamabad,111,113,CDA Sector,Farm House,1996,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 19.10 Crore,40 Marla,Islamabad,7,8,Soan Garden,Farm House,2017,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 5.97 Crore,34 Marla,Islamabad,5,4,CDA Sector,Lower Portion,2012,2,0,1,2,2,synthetic://islamabad-local-dataset
+PKR 399.53 Crore,797 Sq. Yd.,Islamabad,161,162,CDA Sector,Penthouse,2001,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 7.96 Crore,26 Marla,Islamabad,8,9,G-13,House,2022,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 432.58 Crore,1097 Sq. Yd.,Islamabad,220,220,G-13,Farm House,2008,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 10.20 Crore,22 Marla,Islamabad,6,7,B-17,Penthouse,2021,3,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 1405.31 Crore,5548 Sq. Ft.,Islamabad,1108,1109,I-9,Lower Portion,2022,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 1.25 Crore,7 Marla,Islamabad,1,2,CDA Sector,Lower Portion,1999,0,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 55.80 Crore,6 Kanal,Islamabad,24,25,PWD Housing Scheme,Farm House,2015,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 25.22 Crore,3 Kanal,Islamabad,14,16,DHA Defence,Lower Portion,2009,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 17.68 Crore,4 Kanal,Islamabad,15,14,Soan Garden,Penthouse,2015,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 9.54 Crore,27 Marla,Islamabad,5,4,G-10,House,1997,3,0,1,2,2,synthetic://islamabad-local-dataset
+PKR 8.16 Crore,13 Marla,Islamabad,4,6,E-11,Farm House,1995,2,1,1,2,2,synthetic://islamabad-local-dataset
+PKR 7.60 Crore,21 Marla,Islamabad,4,3,PWD Housing Scheme,Farm House,2012,2,0,0,2,1,synthetic://islamabad-local-dataset
+PKR 397.98 Crore,1083 Sq. Yd.,Islamabad,216,215,F-11,House,2004,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 3.74 Crore,19 Marla,Islamabad,3,5,Soan Garden,Lower Portion,2010,1,0,0,2,1,synthetic://islamabad-local-dataset
+PKR 4.81 Crore,20 Marla,Islamabad,5,5,G-10,Lower Portion,2009,4,0,0,2,2,synthetic://islamabad-local-dataset
+PKR 6.12 Crore,1 Kanal,Islamabad,6,8,I-8,Lower Portion,2019,4,0,0,2,3,synthetic://islamabad-local-dataset
+PKR 1.11 Crore,5 Marla,Islamabad,2,2,G-11,Lower Portion,2004,1,0,0,2,1,synthetic://islamabad-local-dataset
+PKR 1.54 Crore,5 Marla,Islamabad,1,3,G-13,Flat,2020,0,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 3.33 Crore,7 Marla,Islamabad,0,2,G-13,Penthouse,2003,1,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 366.72 Crore,1170 Sq. Yd.,Islamabad,236,235,I-8,Lower Portion,2024,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 245.05 Crore,685 Sq. Yd.,Islamabad,139,140,Bahria Town,House,2013,4,1,0,3,3,synthetic://islamabad-local-dataset
+PKR 5.87 Crore,28 Marla,Islamabad,4,5,G-13,Upper Portion,2007,3,0,1,2,2,synthetic://islamabad-local-dataset
+PKR 295.72 Crore,720 Sq. Yd.,Islamabad,144,146,F-10,House,2005,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 173.30 Crore,651 Sq. Yd.,Islamabad,132,131,PWD Housing Scheme,Lower Portion,2019,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 2.39 Crore,6 Marla,Islamabad,2,2,Soan Garden,Penthouse,2022,1,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 56.92 Crore,159 Sq. Yd.,Islamabad,31,31,F-11,Flat,2019,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 7.02 Crore,26 Marla,Islamabad,7,9,CDA Sector,Upper Portion,2017,4,0,1,3,2,synthetic://islamabad-local-dataset
+PKR 1414.27 Crore,4787 Sq. Ft.,Islamabad,958,959,I-9,Lower Portion,2000,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 3.43 Crore,13 Marla,Islamabad,5,5,Bahria Town,Upper Portion,1995,4,0,0,2,2,synthetic://islamabad-local-dataset
+PKR 48.70 Crore,118 Sq. Yd.,Islamabad,24,24,F-11,Penthouse,1995,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 2498.55 Crore,6738 Sq. Ft.,Islamabad,1350,1351,G-10,Penthouse,2020,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 12.15 Crore,36 Marla,Islamabad,9,11,G-10,Flat,2009,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 17.68 Crore,5 Kanal,Islamabad,20,19,Koral Town,Upper Portion,2012,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 27.59 Crore,5 Kanal,Islamabad,19,19,G-10,Upper Portion,2015,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 1.03 Crore,4 Marla,Islamabad,2,3,B-17,Upper Portion,2016,1,0,0,2,1,synthetic://islamabad-local-dataset
+PKR 4102.78 Crore,7584 Sq. Ft.,Islamabad,1516,1516,DHA Defence,Penthouse,2017,4,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 3.47 Crore,13 Marla,Islamabad,4,4,B-17,Upper Portion,2011,2,0,1,2,2,synthetic://islamabad-local-dataset
+PKR 86.24 Crore,282 Sq. Yd.,Islamabad,56,56,I-8,Flat,2016,4,0,1,1,1,synthetic://islamabad-local-dataset
+PKR 64.35 Crore,8 Kanal,Islamabad,34,36,F-10,Upper Portion,2003,4,0,0,3,3,synthetic://islamabad-local-dataset
+PKR 6.09 Crore,27 Marla,Islamabad,6,8,E-11,Flat,2011,3,0,0,1,1,synthetic://islamabad-local-dataset
+PKR 966.65 Crore,4648 Sq. Ft.,Islamabad,929,929,G-11,Upper Portion,2008,4,0,1,3,3,synthetic://islamabad-local-dataset
+PKR 3.61 Crore,16 Marla,Islamabad,5,5,B-17,House,1995,3,1,0,2,2,synthetic://islamabad-local-dataset
+PKR 26.94 Crore,33 Marla,Islamabad,7,6,F-11,Farm House,2008,4,0,0,3,3,synthetic://islamabad-local-dataset

@@ -1,4 +1,4 @@
-<img width="975" height="269" alt="image" src="https://github.com/user-attachments/assets/9f9f422d-1314-4ec2-867d-c518cf9b4378" /># 🏠 PropVision AI  
+# 🏠 PropVision AI  
 ## An End-to-End Machine Learning Framework for House Price Prediction
 
 PropVision AI is a machine learning-based house price prediction system developed using real-world property listings from **Zameen.com** for Islamabad. 
